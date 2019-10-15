@@ -1,6 +1,6 @@
 # What is this?
 
-This is a project to fill JSONs with objects attributes.
+This is an NPM packge to fill JSONs with objects attributes.
 
 # Instalation
 
