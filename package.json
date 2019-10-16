@@ -1,0 +1,28 @@
+{
+  "name": "jsonfiller",
+  "version": "1.0.0",
+  "description": "Fill JSONs with objects attributes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octaedro/jsonFiller.git"
+  },
+  "keywords": [
+    "json",
+    "filler",
+    "object"
+  ],
+  "author": "Fernando Marichal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octaedro/jsonFiller/issues"
+  },
+  "homepage": "https://github.com/octaedro/jsonFiller#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
