@@ -1,6 +1,8 @@
+// import { errorHandler } from './entities/error';
+
 function jsonFiller(objects, jsonMap) {
     if (objects && jsonMap) {
-        if (typeof jsonMap === 'object') {
+        if (Object.prototype.toString.call(jsonMap) === '[object Object]') {
             jsonMap = JSON.stringify(jsonMap);
         }
         if (Array.isArray(objects)) {
